@@ -1,0 +1,10 @@
+C:\Users\Unifafibe\Desktop\aula01-JS\trycatch2.0\obj\Debug\trycatch2.0.csproj.AssemblyReference.cache
+C:\Users\Unifafibe\Desktop\aula01-JS\trycatch2.0\obj\Debug\trycatch2._0.Form1.resources
+C:\Users\Unifafibe\Desktop\aula01-JS\trycatch2.0\obj\Debug\trycatch2._0.Properties.Resources.resources
+C:\Users\Unifafibe\Desktop\aula01-JS\trycatch2.0\obj\Debug\trycatch2.0.csproj.GenerateResource.cache
+C:\Users\Unifafibe\Desktop\aula01-JS\trycatch2.0\obj\Debug\trycatch2.0.csproj.CoreCompileInputs.cache
+C:\Users\Unifafibe\Desktop\aula01-JS\trycatch2.0\bin\Debug\trycatch2.0.exe.config
+C:\Users\Unifafibe\Desktop\aula01-JS\trycatch2.0\bin\Debug\trycatch2.0.exe
+C:\Users\Unifafibe\Desktop\aula01-JS\trycatch2.0\bin\Debug\trycatch2.0.pdb
+C:\Users\Unifafibe\Desktop\aula01-JS\trycatch2.0\obj\Debug\trycatch2.0.exe
+C:\Users\Unifafibe\Desktop\aula01-JS\trycatch2.0\obj\Debug\trycatch2.0.pdb
